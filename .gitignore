@@ -1,0 +1,6 @@
+node_modules
+.env
+
+wordpress/wp-content/themes/twentynineteen
+wordpress/wp-content/themes/twentyseventeen
+wordpress/wp-content/themes/twentytwenty

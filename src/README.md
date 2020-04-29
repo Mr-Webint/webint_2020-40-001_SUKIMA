@@ -1,0 +1,3 @@
+# Development Directory
+
+このディレクトリ配下のファイルはWebpackによって管理されます。
