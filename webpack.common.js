@@ -45,7 +45,7 @@ module.exports = {
 	plugins: [
 		new HtmlWebpackPlugin({
 			filename: 'index.html',
-			template: './src/pug/index.pug'
+			template: './src/html/index.html'
 		}),
 		/*
 		new HtmlWebpackPlugin({
